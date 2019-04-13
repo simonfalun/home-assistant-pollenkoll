@@ -1,5 +1,12 @@
 # Home Assistant Pollennivå
 
+
+DEPRECATED!
+Since the original component https://github.com/JohNan/home-assistant-pollenkoll integrated everyting that I want there is no need for this component.
+(This one doesn't work since last Hass.io-update)
+DEPRECATED!
+
+
 Custom component for getting current pollen levels from pollenkoll.se
 I started from https://github.com/JohNan/home-assistant-pollenkoll and tweaked it to behave as I wanted. His version gives you all allergens as attriutes on one single entity but I wanted one allergen per entity.
 
